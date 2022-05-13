@@ -19,5 +19,6 @@
   },
   "dependencies": {
     "sirv-cli": "^2.0.0"
-  }
+  },
+  "homepage": "https://detegice.github.io/todo-svelte/"
 }
